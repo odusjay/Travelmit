@@ -21,7 +21,7 @@ import '../data/referral_codes.dart';
 /// 5. Paste your public SDK keys below.
 class PurchaseService extends ChangeNotifier {
   // TODO(founder): paste your RevenueCat public SDK keys.
-  static const String _androidApiKey = 'goog_YOUR_KEY_HERE';
+  static const String _androidApiKey = 'goog_UqxhWiMOhiKVUkpnmHazaiQPFOC';
   static const String _iosApiKey = 'appl_YOUR_KEY_HERE';
 
   /// Must match the entitlement identifier configured in RevenueCat.
