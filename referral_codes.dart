@@ -20,7 +20,8 @@ const Map<String, String> referralCodes = {
   'BRYAN10': 'Byan',
   'ANTHO10': 'Antho',
   'UNCLE10': 'Wisdom',
-  'ODUSJAY10': 'Jay',
+  'ODUSJAY10': 'jay',
+  'BLUE10': 'mariam',
 };
 
 /// Percentage taken off when a valid code is applied.
